@@ -1,0 +1,25 @@
+#div1 ,#div2 ,#div3 ,#div4 ,#div5 {
+    display : none;
+}
+#div1 {
+    display: initial;
+}
+body{
+    background-color: mintcream;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.btn {
+    margin: 0px;
+    background-color: white;
+    border: darkblue;
+    color: black;
+    padding: 10px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    float: left;
+    cursor: pointer;
+}

@@ -1,0 +1,42 @@
+body{
+   background-image: url("https://images.pexels.com/photos/4709519/pexels-photo-4709519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+h2{
+    text-align: center;
+
+}
+ul {
+    list-style-type: disc;
+}
+.search{
+    width: 98%;
+    border-width: 5px;
+    padding: 10px;
+}
+.submit{
+        background-color:cornflowerblue ;
+        color: black;
+        padding: 10px 30px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+        cursor: pointer;
+} 
+p{
+    display: block;
+}
+img{
+    width:40px;
+}
+#image-left{
+    float:left;
+    padding :10px;
+}
+
+
+
+
+
+
+
+
